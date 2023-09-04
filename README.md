@@ -11,6 +11,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyarajsinhsindhav&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31fxyscvx7fhfu3w57jouvbfy2fe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fxyscvx7fhfu3w57jouvbfy2fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00f900&bar_color_cover=false)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
