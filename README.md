@@ -10,7 +10,7 @@
   
   
 
-- 🌱 I’m currently learning DSA  
+- 🌱 I’m currently learning Backend Development 
   
 
 - ⚡ Fun fact *I'm not at all funny👀✔*  
