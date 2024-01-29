@@ -1,13 +1,16 @@
 ### <div align="center">Hi 👋, I'm Divyarajsinh Sindhav</div>  
+
+<br>
   
 
 <div align="center">
+
+<p><img align="center" style="height: 400px" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="divyarajsinhsindhav" /></p>
 
 </div>  
   
 
 - 🎓 I'm pursuing a Bachelor's in Artificial Intelligence and Data Science from Government Engineering College Rajkot.
-  
   
 
 - 🌱 I’m currently learning Backend Development 
