@@ -58,12 +58,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=divyarajsinhsindhav&&style=flat-square" align="center" />
-</div>  
-
-<br/>
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyarajsinhsindhav&hide_border=true&layout=compact" align="center" /></div>  
