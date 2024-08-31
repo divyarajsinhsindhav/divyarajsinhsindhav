@@ -12,7 +12,7 @@
 
 - 🎓 I'm pursuing a Bachelor's in Artificial Intelligence and Data Science from Government Engineering College Rajkot.
   
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Machine Learning
 
 - 📫 How to reach me it.divyarajsinh@gmail.com
 
